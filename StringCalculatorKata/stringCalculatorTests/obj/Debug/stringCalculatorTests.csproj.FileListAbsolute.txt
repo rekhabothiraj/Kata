@@ -1,0 +1,9 @@
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\stringCalculatorTests.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\stringCalculatorTests.pdb
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\nunit.framework.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\nunit.framework.xml
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\obj\Debug\stringCalculatorTests.csprojResolveAssemblyReference.cache
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\obj\Debug\stringCalculatorTests.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\obj\Debug\stringCalculatorTests.pdb
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\StringCalculatorKata.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\StringCalculatorKata.pdb

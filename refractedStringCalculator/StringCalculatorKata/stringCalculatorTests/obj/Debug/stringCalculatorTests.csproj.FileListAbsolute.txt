@@ -1,0 +1,18 @@
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\stringCalculatorTests.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\stringCalculatorTests.pdb
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\nunit.framework.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\nunit.framework.xml
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\obj\Debug\stringCalculatorTests.csprojResolveAssemblyReference.cache
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\obj\Debug\stringCalculatorTests.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\obj\Debug\stringCalculatorTests.pdb
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\StringCalculatorKata.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\stringCalculatorTests\bin\Debug\StringCalculatorKata.pdb
+C:\kata\StringCalculatorKata\stringCalculatorTests\bin\Debug\stringCalculatorTests.dll
+C:\kata\StringCalculatorKata\stringCalculatorTests\bin\Debug\stringCalculatorTests.pdb
+C:\kata\StringCalculatorKata\stringCalculatorTests\bin\Debug\nunit.framework.dll
+C:\kata\StringCalculatorKata\stringCalculatorTests\bin\Debug\StringCalculatorKata.dll
+C:\kata\StringCalculatorKata\stringCalculatorTests\bin\Debug\StringCalculatorKata.pdb
+C:\kata\StringCalculatorKata\stringCalculatorTests\bin\Debug\nunit.framework.xml
+C:\kata\StringCalculatorKata\stringCalculatorTests\obj\Debug\stringCalculatorTests.csprojResolveAssemblyReference.cache
+C:\kata\StringCalculatorKata\stringCalculatorTests\obj\Debug\stringCalculatorTests.dll
+C:\kata\StringCalculatorKata\stringCalculatorTests\obj\Debug\stringCalculatorTests.pdb

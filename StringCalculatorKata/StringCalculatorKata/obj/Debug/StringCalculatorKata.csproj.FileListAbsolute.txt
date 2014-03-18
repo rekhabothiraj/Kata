@@ -1,0 +1,5 @@
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.pdb
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.csprojResolveAssemblyReference.cache
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.pdb

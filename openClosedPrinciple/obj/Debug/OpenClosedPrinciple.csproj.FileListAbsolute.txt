@@ -1,0 +1,5 @@
+C:\kata\StringCalculatorKata\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\kata\StringCalculatorKata\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\kata\StringCalculatorKata\ClassLibrary1\obj\Debug\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+C:\kata\StringCalculatorKata\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\kata\StringCalculatorKata\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,6 +1,6 @@
-﻿namespace ClassLibrary1
+﻿namespace OpenClosedPrinciple
 {
-    public class IntrestCalculator : IDoIntresetCalculation
+    public class IntrestCalculator :  IDoIntresetCalculation
     {
         private readonly string _intrest;
 
@@ -15,7 +15,7 @@
 
         public string CalculateIntrest()
         {
-            if(_intrest == "SI")
+            if (_intrest == "SI")
                 return "SI";
 
             if (_intrest == "CI")

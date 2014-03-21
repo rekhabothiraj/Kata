@@ -1,0 +1,9 @@
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrincipleTests\bin\Debug\OpenClosedPrincipleTests.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrincipleTests\bin\Debug\OpenClosedPrincipleTests.pdb
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrincipleTests\bin\Debug\nunit.framework.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrincipleTests\bin\Debug\OpenClosedPrinciple.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrincipleTests\bin\Debug\OpenClosedPrinciple.pdb
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrincipleTests\bin\Debug\nunit.framework.xml
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrincipleTests\obj\Debug\OpenClosedPrincipleTests.csprojResolveAssemblyReference.cache
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrincipleTests\obj\Debug\OpenClosedPrincipleTests.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrincipleTests\obj\Debug\OpenClosedPrincipleTests.pdb

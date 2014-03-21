@@ -1,0 +1,7 @@
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.dll
+\\insurance\filedata\sitehome\it\rbothiraj\visual studio 2012\Projects\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
+P:\Shared\CTM\rekha\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+P:\Shared\CTM\rekha\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.dll
